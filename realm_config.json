@@ -1,0 +1,8 @@
+{
+    "app_id": "jform-1-wcyqz",
+    "config_version": 20210101,
+    "name": "Jform-1",
+    "location": "SG",
+    "provider_region": "aws-ap-southeast-1",
+    "deployment_model": "LOCAL"
+}
